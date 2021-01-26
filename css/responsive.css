@@ -1,0 +1,217 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    /* navigation responsive start */
+    .navbar-nav .nav-item .nav-link {
+        text-align: center;
+    }
+
+    .navbar-nav {
+        margin-top: 20px;
+    }
+
+    /* navigation responsive end */
+    /* hero responsive start */
+    .hero_content h1 {
+        margin-top: 100px;
+        font-size: 25px;
+    }
+
+    .hero_content h4 {
+        font-size: 22px;
+    }
+
+    .hero_content a {
+        margin-bottom: 100px;
+    }
+
+    /* hero responsive end */
+    /* about responsive start */
+    .about_card p {
+        margin-bottom: 30px;
+    }
+
+    /* about responsive end */
+    /* blog responsive start */
+    .blog_heading {
+        text-align: center;
+    }
+
+    .blog_card {
+        text-align: center;
+    }
+
+    /* blog responsive end */
+
+    /* footer responsive start */
+    .footer_heading {
+        text-align: center;
+    }
+
+    .footer_copyr p {
+        padding: 0 30px;
+        text-align: center;
+    }
+
+    /* footer responsive end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* navigation responsive start */
+    .navbar-nav .nav-item .nav-link {
+        text-align: center;
+    }
+
+    .navbar-nav {
+        margin-top: 20px;
+    }
+
+    /* navigation responsive end */
+    /* hero responsive start */
+    .hero_content h1 {
+        margin-top: 100px;
+    }
+
+    .hero_content a {
+        margin-bottom: 100px;
+    }
+
+    /* hero responsive end */
+    /* about responsive start */
+    .about_card p {
+        margin-bottom: 30px;
+    }
+
+    /* about responsive end */
+    /* blog responsive start */
+    .blog_heading {
+        text-align: center;
+    }
+
+    .blog_card {
+        text-align: center;
+    }
+
+    .blog_card_p_2 {
+        padding: 0 65px;
+    }
+
+    /* blog responsive end */
+
+    /* footer responsive start */
+    .footer_heading {
+        text-align: center;
+    }
+
+    .footer_copyr p {
+        padding: 0 30px;
+        text-align: center;
+    }
+
+    .footer_2_logo ul li:nth-child(1) {
+        margin-bottom: 44px;
+    }
+
+    .footer_2_logo ul li:nth-child(2) {
+        margin-bottom: 22px;
+    }
+
+    .footer_common_p {
+        text-align: center;
+    }
+
+    .f_icon_text {
+        text-align: left;
+    }
+
+    /* footer responsive end */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* navigation responsive start */
+    .navbar-nav .nav-item .nav-link {
+        text-align: center;
+    }
+
+    .navbar-nav {
+        margin-top: 20px;
+    }
+
+    /* navigation responsive end */
+    /* hero responsive start */
+    .hero_content h1 {
+        margin-top: 150px;
+    }
+
+    .hero_content a {
+        margin-bottom: 150px;
+    }
+
+    /* hero responsive end */
+    /* about responsive start */
+    /* about responsive end */
+    /* blog responsive start */
+    /* blog responsive end */
+    /* testimonial responsive start */
+    .testi_content p {
+        font-size: 18px;
+    }
+
+    /* testimonial responsive end */
+    /* footer responsive start */
+    .footer_2_logo ul li:nth-child(1) {
+        margin-bottom: 66px;
+    }
+
+    .footer_2_logo ul li:nth-child(2) {
+        margin-bottom: 40px;
+    }
+
+    /* footer responsive end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* hero responsive start */
+    .hero_content h1 {
+        font-size: 36px;
+    }
+
+    .hero_content h4 {
+        font-size: 28px;
+    }
+
+    /* hero responsive end */
+
+    /* footer responsive start */
+    .footer_2_logo ul li:nth-child(2) {
+        margin-bottom: 64px;
+    }
+
+    .footer_1_logo ul li:nth-child(1) {
+        margin-bottom: 53px;
+    }
+
+    /* footer responsive end */
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    /* navigation responsive start */
+    /* navigation responsive end */
+    /* hero responsive start */
+    /* hero responsive end */
+    /* about responsive start */
+    /* about responsive end */
+    /* blog responsive start */
+    /* blog responsive end */
+    /* testimonial responsive start */
+    /* testimonial responsive end */
+    /* footer responsive start */
+    /* footer responsive end */
+}
